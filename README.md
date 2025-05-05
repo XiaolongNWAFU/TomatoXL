@@ -2,7 +2,8 @@
 
 A 3D canopy light-photosynthesis model of tomatoes based on XL language in GroIMP platform.
 
-**File structures**
+
+**Files structure**
 
 Running instruction file: Runing_instructions_TomatoXL.docx
 
